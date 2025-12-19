@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Dozen Updates</title>
+    <description>Most recent updates for Dozen</description>
+    <language>en</language>
+    <!-- Updates will be added here when new versions are released -->
+  </channel>
+</rss>
