@@ -1,18 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Dozen Updates</title>
-    <description>Most recent updates for Dozen</description>
-    <language>en</language>
-    <item>
-      <title>Version 1.0.2</title>
-      <sparkle:version>3</sparkle:version>
-      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-      <pubDate>Thu, 19 Dec 2024 17:00:00 +0000</pubDate>
-      <enclosure url="https://github.com/sebp90/dozen-updates/releases/download/v1.0.2/Dozen-Installer.dmg"
-                 sparkle:edSignature="PzI88CjHzE3srdzm6U2Z3q4Xp5GKor/a4bctn94LQSYWyCPluMT+iHkXlH9l8iUqvZd5rK/qo6goz4C7onLSAQ=="
-                 length="2292226"
-                 type="application/octet-stream"/>
-    </item>
-  </channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Dozen Updates</title>
+        <description>Most recent updates for Dozen</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0.2</title>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <pubDate>Thu, 19 Dec 2024 17:00:00 +0000</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/sebp90/dozen-updates/main/Dozen-Installer.dmg" length="2305019" type="application/octet-stream" sparkle:edSignature="e2uMyPorQU/gRuhoAhDCGvwxeib1DRK17FTIrUyv4rA9k7VPzuD5qdrWjZVinLQ6sskRmIZ+g+Nn8y7kDanBAg=="/>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+        </item>
+    </channel>
 </rss>
