@@ -4,6 +4,14 @@
     <title>Dozen Updates</title>
     <description>Most recent updates for Dozen</description>
     <language>en</language>
-    <!-- Updates will be added here when new versions are released -->
+    <item>
+      <title>Version 1.0.1</title>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <pubDate>Thu, 19 Dec 2024 15:30:00 +0000</pubDate>
+      <enclosure url="https://github.com/sebp90/dozen-updates/releases/download/v1.0.1/Dozen-Installer.dmg"
+                 length="2222979"
+                 type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
