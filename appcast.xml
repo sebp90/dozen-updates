@@ -8,9 +8,10 @@
       <title>Version 1.0.1</title>
       <sparkle:version>2</sparkle:version>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-      <pubDate>Thu, 19 Dec 2024 15:30:00 +0000</pubDate>
+      <pubDate>Thu, 19 Dec 2024 16:30:00 +0000</pubDate>
       <enclosure url="https://github.com/sebp90/dozen-updates/releases/download/v1.0.1/Dozen-Installer.dmg"
-                 length="2222979"
+                 sparkle:edSignature="RMhMJv8RJLf49d++VOKrPa0gS6HJBr6/xceWIenWTQtIskvQt0sdXqC0bgi5wxfDk0Au1UL2YITNEdTPrgCfAg=="
+                 length="2292228"
                  type="application/octet-stream"/>
     </item>
   </channel>
