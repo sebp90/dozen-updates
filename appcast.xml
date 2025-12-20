@@ -5,6 +5,14 @@
         <description>Most recent updates for Dozen</description>
         <language>en</language>
         <item>
+            <title>1.0.3</title>
+            <pubDate>Fri, 19 Dec 2025 23:41:07 +0100</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/sebp90/dozen-updates/main/Dozen-Installer.dmg" length="2307931" type="application/octet-stream" sparkle:edSignature="uBqCbCzbjSy9zB//MnOHoKJuMzZJyJSk5GV8AawAzE64uW+K2h70HwK1EowTKIbEJ3Cp1QeyuVdQV5Lh6ofKAg=="/>
+        </item>
+        <item>
             <title>Version 1.0.2</title>
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
