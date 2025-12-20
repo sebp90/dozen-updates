@@ -9,7 +9,7 @@
             <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <pubDate>Thu, 19 Dec 2024 17:00:00 +0000</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/sebp90/dozen-updates/main/Dozen-Installer.dmg" length="2305019" type="application/octet-stream" sparkle:edSignature="e2uMyPorQU/gRuhoAhDCGvwxeib1DRK17FTIrUyv4rA9k7VPzuD5qdrWjZVinLQ6sskRmIZ+g+Nn8y7kDanBAg=="/>
+            <enclosure url="https://raw.githubusercontent.com/sebp90/dozen-updates/main/Dozen-Installer.dmg" length="2307933" type="application/octet-stream" sparkle:edSignature="g2XJQgEBE41XoJh7Jvc4kiaos0i1HF5T+prG4UyebYq2NCzAMfMHwr+NgU7bL7OXlqklCC2fzro2CztOtYYaBQ=="/>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
