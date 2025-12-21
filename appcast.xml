@@ -5,6 +5,21 @@
         <description>Most recent updates for Dozen</description>
         <language>en</language>
         <item>
+            <title>1.0.4</title>
+            <pubDate>Sun, 21 Dec 2025 12:46:17 +0100</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>Bug Fixes</h2>
+                <ul>
+                    <li>Fixed Stage Manager compatibility - panel no longer gets captured in the sidebar</li>
+                    <li>Improved multi-monitor window detection logging</li>
+                </ul>
+            ]]></description>
+            <enclosure url="https://raw.githubusercontent.com/sebp90/dozen-updates/main/Dozen-Installer.dmg" length="2308095" type="application/octet-stream" sparkle:edSignature="HjX2VnWaBksECgXQ/DsbPP4TQWk3A+wWAKBGLn4MnCoN87IUwe9jaaSzdYvtkeqBledJJnHexKoUQXJAgLFAAg=="/>
+        </item>
+        <item>
             <title>1.0.3</title>
             <pubDate>Fri, 19 Dec 2025 23:41:07 +0100</pubDate>
             <sparkle:version>4</sparkle:version>
